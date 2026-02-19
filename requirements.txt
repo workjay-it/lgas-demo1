@@ -1,4 +1,4 @@
-streamlit==1.52.2  # or latest
+streamlit
 pandas
-faker  # if using it
-streamlit-gsheets
+st-gsheets-connection
+
